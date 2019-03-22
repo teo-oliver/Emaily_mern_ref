@@ -20,4 +20,4 @@ module.exports = app => {
   });
 };
 
-//Install another strategy
+//Install another strategy in the future
